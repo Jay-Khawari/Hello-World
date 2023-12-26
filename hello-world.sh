@@ -1,0 +1,2 @@
+Jalal=Saabachayshhii
+echo $Jalal
